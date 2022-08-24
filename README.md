@@ -1,10 +1,10 @@
-🎓 Atualmente estou fazendo graduação em Análise e Desenvolvimento de Sistemas
+🎓 Técnologo em Análise e Desenvolvimento de Sistemas
 
 💻 Faço cursos Bootcamp na DIO (Digital Innovation One) ...
 
 💻 Desenvolvendo com JAVA...
 
-💻 Microoempreendedora
+💻 Full Stack JavaScript(OneBitCode - 1/8 módulos)
 
 👯 Amo minha família ...
 
