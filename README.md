@@ -1,10 +1,10 @@
 🎓 Análise e Desenvolvimento de Sistemas
 
+💻Atualmente estou me espicializando no curso Full Stack JavaScript(OneBitCode - 6/8 módulos)- Técnoligias Envolvidas(HTML, CSS, JAVASCRIPT AVANÇADO, GIT E GITHUB, SASS, BOOTSTRAP, REACT, NODE.JS, MONGODB, SQL-Sequelize, TYPESCRIPT, BULMA)
+
 💻 Faço cursos Bootcamp na DIO (Digital Innovation One)
 
 💻 Um pouco de  JAVA
-
-💻 Full Stack JavaScript(OneBitCode - 6/8 módulos)
 
 👯 Amo minha família
 
