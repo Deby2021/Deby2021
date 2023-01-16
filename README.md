@@ -10,13 +10,19 @@
 
 ✈️ Amo viajar ❤
 
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=Deby2021&show_icons=true&theme=tokyonight"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=Deby2021&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: tokyonight)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=Deby2021&show_icons=true" />
+</picture>
 
-<div align="center">
-  <a href="https://github.com/Deby2021">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Deby2021&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deby2021&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deby2021&layout=compact)](https://github.com/Deby2021/github-readme-stats)
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Deby-Js" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
