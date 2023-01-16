@@ -10,17 +10,7 @@
 
 ✈️ Amo viajar ❤
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Deby2021&show_icons=true&theme=tokyonight"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=Deby2021&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: tokyonight)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=Deby2021&show_icons=true" />
-</picture>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deby2021&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deby2021&layout=compact)](https://github.com/Deby2021/github-readme-stats)
 
