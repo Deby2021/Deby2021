@@ -4,8 +4,6 @@
 
 💻 Faço cursos Bootcamp na DIO (Digital Innovation One)
 
-💻 Um pouco de  JAVA
-
 👯 Amo minha família
 
 ✈️ Amo viajar ❤
