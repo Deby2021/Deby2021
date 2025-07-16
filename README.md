@@ -18,13 +18,16 @@
      <img align="center" alt="Deby-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
      <img align="center" alt="Bia-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
      <img align="center" alt="Bia-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-   <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="center" alt="prisma" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
+ <img align="center" alt="github" height="30" width="40" color="green"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />                
 </div>
-<br/>
+<br />
+<br />
 
 <div align="center">
   <a href="https://github.com/Deby2021">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deby2021&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deby2021&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale-eng"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deby2021&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
