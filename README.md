@@ -1,37 +1,65 @@
-### Débora Cabrera
-**Live in Dublin - Ireland**
+# Hi there, I'm Débora Cabrera 👋
 
-<div>
-  <a href="https://www.instagram.com/debycabrera86/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:dcc.cabrera1986@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/débora-cristina-cabrera-3753b8211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div> <br />
+🎓 **HDip Science in Computing** student at **CCT College Dublin**  
+🌍 Brazilian living in Dublin, Ireland  
+💻 Passionate about technology, problem-solving, and building things that work
 
-### 🧰 Languages and Tools
- <div style="display: inline_block">
-  <img align="center" alt="Deby-Js" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Deby-Ts" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Deby-React" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Deby-HTML" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Deby-CSS" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Deby-sql" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-     <img align="center" alt="Deby-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-     <img align="center" alt="Bia-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-     <img align="center" alt="Bia-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-<img align="center" alt="prisma" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
- <img align="center" alt="github" height="30" width="40" color="green"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />                
-</div>
-<br />
-<br />
+---
 
-<div align="center">
-  <a href="https://github.com/Deby2021">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deby2021&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale-eng"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deby2021&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+## 👩‍💻 About Me
 
+I'm a Computing student transitioning into tech, with hands-on experience in Java development, database design, operating systems, and network administration. I love learning by doing — whether that's configuring a Windows Server domain environment or building a Java application connected to a MySQL database.
 
+- 🔭 Currently studying: **Operating Systems & Architecture**, **Maths for Computing**, **Java & Databases**
+- 🌱 Actively building skills in: **Java**, **MySQL**, **Linux**, **Windows Server 2025**, **VirtualBox**
+- 🗣️ Languages: Portuguese (native) | English (B2–C1)
+- 📍 Based in Dublin, Ireland
 
+---
 
+## 🧰 Languages & Tools
 
+### Programming & Web
+[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)](https://www.java.com/)
+[![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+### Databases
+[![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg)](https://www.mysql.com/)
+[![Microsoft SQL Server](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg)](https://www.microsoft.com/en-us/sql-server)
+
+### Systems & Tools
+[![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)](https://www.linux.org/)
+[![Windows](https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg)](https://www.microsoft.com/en-us/windows-server)
+[![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)](https://git-scm.com/)
+[![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg)](https://github.com/)
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [Car Rental System](https://github.com/Deby2021) | Console-based rental management system with CRUD operations and database integration | Java, MySQL, JDBC |
+| [School Library System](https://github.com/Deby2021) | GUI mock-up and system design for a library management solution | Figma, UML |
+| [Windows Server Lab](https://github.com/Deby2021) | Two-VM domain environment with DHCP, RAID, Group Policy, IIS FTP server | Windows Server 2025, VirtualBox |
+
+---
+
+## 📊 GitHub Stats
+
+![Débora's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deby2021&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=en)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deby2021&layout=compact&langs_count=7&theme=dracula)
+
+---
+
+## 📬 Connect with Me
+
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/debycabrera86/)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dcc.cabrera1986@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/débora-cristina-cabrera-3753b8211/)
+
+---
+
+*"Every expert was once a beginner."* 🌱
