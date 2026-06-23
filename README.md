@@ -1,14 +1,15 @@
 # Hi there, I'm Débora Cabrera 👋
 
-🎓 **HDip Science in Computing** student at **CCT College Dublin**  
-🌍 Brazilian living in Dublin, Ireland  
-💻 Passionate about technology, problem-solving, and building things that work
+🎓 HDip Science in Computing student at CCT College Dublin
+🌱 Junior, building real-world experience one project at a time
+🌍 Brazilian living in Dublin, Ireland
+📚🏐 When I'm not coding, you'll find me reading or playing volleyball
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a Computing student transitioning into tech, with hands-on experience in Java development, database design, operating systems, and network administration. I love learning by doing — whether that's configuring a Windows Server domain environment or building a Java application connected to a MySQL database.
+I'm a Computing student building practical skills in Java development, database design, operating systems, and network administration. Recent work includes configuring a Windows Server domain environment and building a Java application connected to a MySQL database.
 
 - 🔭 Currently studying: **Operating Systems & Architecture**, **Maths for Computing**, **Java & Databases**
 - 🌱 Actively building skills in: **Java**, **MySQL**, **Linux**, **Windows Server 2025**, **VirtualBox**
