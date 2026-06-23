@@ -1,8 +1,11 @@
 # Hi there, I'm Débora Cabrera 👋
 
 🎓 HDip Science in Computing student at CCT College Dublin
+
 🌱 Junior, building real-world experience one project at a time
+
 🌍 Brazilian living in Dublin, Ireland
+
 📚🏐 When I'm not coding, you'll find me reading or playing volleyball
 
 ---
